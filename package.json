@@ -4,7 +4,7 @@
   "description": "this is simple nodejs application which is deployed on aws ec2 having ci/cd pipeline",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Raunak Scarlet",
   "license": "ISC"
