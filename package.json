@@ -1,6 +1,7 @@
 {
   "name": "node-app",
   "version": "1.0.0",
+  "type":"module",
   "description": "this is simple nodejs application which is deployed on aws ec2 having ci/cd pipeline",
   "main": "index.js",
   "scripts": {
